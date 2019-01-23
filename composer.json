@@ -1,5 +1,5 @@
 {
-    "name": "myzero1/yii2-yii2-modular-site-site",
+    "name": "myzero1/yii2-modular-site",
     "description": "It can log by text,screenshot or both.",
     "type": "yii2-module",
     "license": "BSD-3-Clause",
